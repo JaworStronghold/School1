@@ -1,0 +1,9 @@
+C:\Pojemnik na pliki\Csharp\Szkoła\Szkola_2_1\Szkola_2_1\bin\Release\Szkola_2_1.exe.config
+C:\Pojemnik na pliki\Csharp\Szkoła\Szkola_2_1\Szkola_2_1\bin\Release\Szkola_2_1.exe
+C:\Pojemnik na pliki\Csharp\Szkoła\Szkola_2_1\Szkola_2_1\bin\Release\Szkola_2_1.pdb
+C:\Pojemnik na pliki\Csharp\Szkoła\Szkola_2_1\Szkola_2_1\obj\Release\Szkola_2_1.Form1.resources
+C:\Pojemnik na pliki\Csharp\Szkoła\Szkola_2_1\Szkola_2_1\obj\Release\Szkola_2_1.Properties.Resources.resources
+C:\Pojemnik na pliki\Csharp\Szkoła\Szkola_2_1\Szkola_2_1\obj\Release\Szkola_2_1.csproj.GenerateResource.cache
+C:\Pojemnik na pliki\Csharp\Szkoła\Szkola_2_1\Szkola_2_1\obj\Release\Szkola_2_1.csproj.CoreCompileInputs.cache
+C:\Pojemnik na pliki\Csharp\Szkoła\Szkola_2_1\Szkola_2_1\obj\Release\Szkola_2_1.exe
+C:\Pojemnik na pliki\Csharp\Szkoła\Szkola_2_1\Szkola_2_1\obj\Release\Szkola_2_1.pdb
